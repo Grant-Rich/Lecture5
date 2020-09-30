@@ -1,0 +1,36 @@
+body{color:#00ffff;}
+
+.class-for-Page-1{
+	h1{font-color:#ff0066;
+	   text-align:center;}
+	
+	a{font-color:#ffffff}
+	}
+
+.class-for-Page-2{
+	a{font-color:#ffffff}
+	
+	h1{font-color:#ff0066
+	   font-family:Rockwell-Extra-Bold;
+	   border-style:groove;
+  	   border-color:green;
+  	   text-align:center;}
+  	
+  	p1{font-family:papyrus;
+  	   font-color:#cc00cc;
+  	   text-align:center;}  
+    
+    p2{font-family:calibri;
+  	   font-color:#6600ff;
+  	   text-align:right;} 
+	}
+
+.class-for-Page-3{
+	a{font-color:#ffffff;}
+	h4{font-family:Cooper;
+  	   text-align:center;
+  	   color:#330080;}
+  	p{font-family:Cooper;
+  	   text-align:center;
+  	   color:#ff3300;}
+}
